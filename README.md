@@ -1,6 +1,4 @@
-# 🧪 Manual & Automation Testing
-
-This is my first hands-on automation testing project. While it's a basic implementation, it helped me understand the fundamentals of Selenium, Pytest, and test automation using Python.
+This is my first hands-on manual and automation testing project. While it's a basic implementation, it helped me understand the fundamentals of Selenium, Pytest, and test automation using Python.
 
 ## Features
 
